@@ -1,4 +1,4 @@
-# botnet-traffic-analysis
+# Botnet-traffic-analysis
 
 This is a project for my thesis for IoT botnet traffic analysis *DETECTING, CLASSIFYING AND EXPLAINING IOT BOTNET ATTACKS USING DEEP LEARNING METHODS BASED ON NETWORK DATA*
 
