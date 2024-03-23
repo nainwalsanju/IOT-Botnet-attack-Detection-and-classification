@@ -130,6 +130,6 @@ benign  gafgyt  mirai
  [   486  38033 695224]]
 
 
-![alt text](./screenshots/classification_test_5_4.PNG)
+![alt text](./screenshots/classification_train_5_4.PNG)
 
 # For more information please read major project pdf file (botnet-attack-detection.pdf) and checout screenshots in the project folder /screenshots
